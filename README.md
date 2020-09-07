@@ -1,3 +1,5 @@
+# ASP .NET Core code along exercise . All credit and thanks goes to csharpfritz. 
+
 # ASP.NET Core - App Building Workshop
 
 [![Build Status](https://dotnet.visualstudio.com/AspNetCoreWorkshop/_apis/build/status/ASP.NET%20Workshop-ASP.NET%20Core%203.0?branchName=master)](https://dotnet.visualstudio.com/AspNetCoreWorkshop/_build/latest?definitionId=71&branchName=master)
